@@ -4,6 +4,14 @@ ul {
   padding: 0;
 }
 
-body{
+ul a{
+	color: white;
+}
+
+ul a:hover{
+	color: red;
+}
+
+.navBar{
 	background: black;
 }
