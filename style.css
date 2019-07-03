@@ -1,17 +1,24 @@
-.navbar ul {
+body{
+	background: purple;
+}
+
+
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
+  background: black;
 }
 
-.navbar ul a{
+ul a{
 	color: white;
 }
 
-.navbar a:hover{
+ul a:hover{
 	color: red;
 }
 
-.navBar ul{
+
+.navbar{
 	background: black;
 }
