@@ -8,10 +8,10 @@ ul a{
 	color: white;
 }
 
-ul a:hover{
+.navbar a:hover{
 	color: red;
 }
 
-.navBar{
+.navBar ul{
 	background: black;
 }
